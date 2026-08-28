@@ -1,2 +1,8 @@
-const nombre= promt('Cual es tu nombre')
-document.querySelector('.contenido')
+console.log('Hola');
+console.log('Mundo');
+
+function hola (){
+    console.log('ok');
+    console.log('Hola');
+    console.log('Mundo');
+}
