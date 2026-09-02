@@ -160,3 +160,6 @@ function limpiarHTML() {
         resultado.removeChild(resultado.firstChild);
     }
   }
+
+  //DONE
+  
