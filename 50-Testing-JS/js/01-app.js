@@ -25,3 +25,4 @@ if(resultado !== esperado) {
 } else {
     console.log('La prueba paso correctamente');;
 }
+
