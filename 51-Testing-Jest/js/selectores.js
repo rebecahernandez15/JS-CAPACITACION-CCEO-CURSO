@@ -12,4 +12,5 @@ export const contenedorCitas = document.querySelector('#citas');
 export const formulario = document.querySelector('#nueva-cita')
 
 // Heading
+
 export const heading = document.querySelector('#administra');
