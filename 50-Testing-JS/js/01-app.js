@@ -23,5 +23,5 @@ esperado = 6;
 if(resultado !== esperado) {
     console.error(`El ${resultado} es diferente a lo esperado; la prueba no pasó`);
 } else {
-    console.log('La prueba paso correctamente');
+    console.log('La prueba paso correctamente');;
 }

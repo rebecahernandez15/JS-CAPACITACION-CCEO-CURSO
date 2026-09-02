@@ -32,7 +32,7 @@ function expected( esperado ) {
             if(resultado !== esperado) {
                 console.error(`El ${resultado} no es igual a lo esperado, la prueba no paso`);
             } else {
-                console.log('La prueba paso correctamente');
+                console.log('La prueba paso correctamente');;
             }
         }
     }
