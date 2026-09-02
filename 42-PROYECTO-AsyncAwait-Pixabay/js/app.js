@@ -140,5 +140,7 @@ function imprimirPaginador() {
         }
 
         paginacionDiv.appendChild(boton);
+
+        //completado
     }
 }
